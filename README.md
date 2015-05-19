@@ -1,4 +1,4 @@
 contacts-generator
 ==================
 
-http://master.store.com/mobile/install?package=com.crasher.sandy
+storage://master.storage.com/mobile/install?package=com.crasher.sandy
